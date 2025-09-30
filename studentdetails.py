@@ -2,7 +2,7 @@ def get_student_details():
     print("=== Student Details Collection ===")
     
     name = input("Enter student name: ")
-    usn = input("Enter student USN: ")
+    usn = input("Enter student SRN: ")
     
     return name, usn
 
